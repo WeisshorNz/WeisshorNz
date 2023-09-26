@@ -20,7 +20,8 @@ If you're looking for a full-stack software developer who is passionate about bu
 
 How to reach me:
 
-    LinkedIn: [www.linkedin.com/in/luis-rodríguez-4b4678290]
+[LinkedIn](https://www.linkedin.com/in/luis-rodríguez-4b4678290)
+
    
 
 Thank you for visiting my GitHub profile!
