@@ -24,5 +24,3 @@ How to reach me:
    
 
 Thank you for visiting my GitHub profile!
-
-![20230909_1631522](https://github.com/WeisshorNz/WeisshorNz/assets/132241283/bf4cdd4e-756f-414d-a4f9-413d884be55b)
