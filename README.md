@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi, I'm Luis, a full-stack software developer. I'm passionate about building innovative and impactful products, and I'm always eager to learn new things and collaborate with others.
 
-<!--
-**WeisshorNz/WeisshorNz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some of the technologies I work with include:
 
-Here are some ideas to get you started:
+    HTML
+    CSS
+    JavaScript
+    React
+    Node.js
+    MySQL
+    TypeScript
+    MongoDB
+    Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on redesigning the website for Birkenhead Cricket Club to make it simpler and easier for signing up. I'm excited to use my skills to help the club reach a wider audience and attract new members.
+
+In addition to my work on the Birkenhead Cricket Club website, I'm also interested in developing web applications, mobile apps, and backend services. I'm also interested in machine learning and artificial intelligence.
+
+If you're looking for a full-stack software developer who is passionate about building innovative and impactful products, please feel free to contact me. I'm always looking for new opportunities to collaborate with others and learn new things.
+
+How to reach me:
+
+    LinkedIn: [www.linkedin.com/in/luis-rodríguez-4b4678290]
+   
+
+Thank you for visiting my GitHub profile!
+
+![20230909_1631522](https://github.com/WeisshorNz/WeisshorNz/assets/132241283/bf4cdd4e-756f-414d-a4f9-413d884be55b)
